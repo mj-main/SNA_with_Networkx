@@ -1,6 +1,7 @@
 ## 개요
 
 - 파이썬 패키지인 networkx를 이용해서 소셜네트워크를 시각화하는 코드입니다.
+- [networkx tutorial](https://networkx.github.io/documentation/stable/index.html) 
 
 ## 순서
 
@@ -17,3 +18,5 @@
 
 - Dichotomize: 관계데이터와 기준값으로 Binary Matrix를 생성하는 코드
 - 에고네트워크: 노드와 step을 인풋으로 받아서 그래프를 생성하는 코드
+
+
